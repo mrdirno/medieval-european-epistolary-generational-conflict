@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-epistolary-generational-conflict",
+  "title": "The Unyielding Scent of Home",
+  "tagline": "A brother's return in a sealed letter unravels a family's legacy, forcing a reckoning between the land's old truths and a new world's cold ambitions.",
+  "target_words": 76519,
+  "actual_words": 76519,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inheritance and Dispossession",
+    "The Weight of Silence",
+    "The Erosion of Tradition",
+    "The Geography of Belonging"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Letter of Wet Wool and Weight",
+      "words": 6376
+    },
+    {
+      "ch": 2,
+      "title": "The Etched Glass of a Stranger's Arrival",
+      "words": 6376
+    },
+    {
+      "ch": 3,
+      "title": "A Ditch, a Flood, a Shifting Boundary",
+      "words": 6376
+    },
+    {
+      "ch": 4,
+      "title": "The Night Language of Wearing Down",
+      "words": 6376
+    },
+    {
+      "ch": 5,
+      "title": "The Factor's Calculus of Tare and Tret",
+      "words": 6376
+    },
+    {
+      "ch": 6,
+      "title": "The Dry Precision of a Listening Man",
+      "words": 6376
+    },
+    {
+      "ch": 7,
+      "title": "The Cold Harvest of Lies",
+      "words": 6376
+    },
+    {
+      "ch": 8,
+      "title": "Dawn with a Scythe's Edge",
+      "words": 6376
+    },
+    {
+      "ch": 9,
+      "title": "The Unyielding Scent of Home",
+      "words": 6376
+    },
+    {
+      "ch": 10,
+      "title": "The Greasy Constellations of Lanton Fair",
+      "words": 6376
+    },
+    {
+      "ch": 11,
+      "title": "A Thick, Woolen Press of Dark",
+      "words": 6376
+    },
+    {
+      "ch": 12,
+      "title": "A Seal of Burgundy Finality",
+      "words": 6376
+    }
+  ]
+}
